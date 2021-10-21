@@ -1,0 +1,8 @@
+2 down
+3 left
+4 up
+5 right
+6 ard
+7 ald
+8 alu
+9 aru
